@@ -10,6 +10,7 @@ numbers = [10, 20, 30, 40, 50]
 average = calculate_average(numbers)
 print("The average of the list is:", average)
 
+
 #create a fucntion which add two numbers
 def add_two_numbers(a, b):
     return a + b
