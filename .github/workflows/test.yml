@@ -33,6 +33,6 @@ jobs:
       - name: Run a multi-line script
         run: |
             python --version
-            df - drfdrfrfh
+            python f_string.py
           
           
