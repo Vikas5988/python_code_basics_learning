@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Python_main_workflow
+name: Python_dev_workflow
 
 # Controls when the workflow will run
 on:
