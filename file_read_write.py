@@ -18,6 +18,10 @@ f.write("Appended second line from code\n")
 f.write("Appended third line from code\n")
 f.close()
 
+with open ("data.txt","a") as append_file:
+   append_file.write("Append Forth Line")
+   
+
 #with open method, no need to close the file. it will automatically close the file
 with open ("data.txt") as t:
    read_line=t.read()
