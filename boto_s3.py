@@ -15,7 +15,6 @@ def create_buckets(y):
                          'LocationConstraint': 'ap-south-1', #it should match the default region set
                          },)
                
-show_buckets(s3)
 
 create_buckets(s3)
 
