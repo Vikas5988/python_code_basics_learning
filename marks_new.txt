@@ -1,0 +1,3 @@
+English : 55
+Math:44
+Hindi: 65
