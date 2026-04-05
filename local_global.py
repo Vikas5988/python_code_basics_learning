@@ -6,9 +6,10 @@ print("Global variable:",x) # global variable
 
 def myfunc():
     x = 20 #Local Variable
-    print("Variable inside fucntion:",x)
+    print("Variable inside function:",x)
     
 myfunc()
+
 print("Global variable:",x) # global variable
 
 def globalfunc():
